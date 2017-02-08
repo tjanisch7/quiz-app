@@ -1,0 +1,32 @@
+#main {
+	background-image: url(../img/quiz-background.jpg);
+	background-size: cover;
+}
+
+
+#divHead {
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+
+h1	{
+	color: #ffc107;
+}
+
+
+h3	{
+	color: #ffc107;
+}
+
+input {
+	width: 300px;
+}
+
+.correct {
+	color: #4caf50;
+}
+
+.incorrect {
+	color: red;
+}
+
